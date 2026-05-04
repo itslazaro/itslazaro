@@ -112,9 +112,9 @@ My work is done in an isolated, air-gapped homelab using:
 
 I'm actively seeking **cybersecurity internship opportunities** in offensive security, SOC analysis, or security engineering. If you're hiring or want to collaborate on a project, reach out.
 
-- 📧 **Email**: youremail@gmail.com
-- 💼 **LinkedIn**: linkedin.com/in/yourprofile
-- 🎮 **TryHackMe**: tryhackme.com/p/yourusername
+- 📧 **Email**: abdulsalaamm195@gmail.com
+- 💼 **LinkedIn**: https://www.linkedin.com/in/abdulsalaam-mwinyi-769517232
+- 🎮 **TryHackMe**: https://tryhackme.com/p/its.lazaro
 
 <div align="center">
 
